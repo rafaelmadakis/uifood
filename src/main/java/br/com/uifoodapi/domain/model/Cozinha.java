@@ -7,7 +7,6 @@ import java.util.Objects;
  * @Author: Rafael Madakis
  */
 @Entity
-@Table(name = "cozinha")
 public class Cozinha {
 
     @Id
